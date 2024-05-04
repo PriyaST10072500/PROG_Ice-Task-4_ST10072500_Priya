@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PROG_Ice Task 4_ST10072500_Priya", "PROG_Ice Task 4_ST10072500_Priya.csproj", "{910CB019-981A-43FF-865C-BC42165C183E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart_Home_Event_Handling_System_UnitTests", "..\Smart_Home_Event_Handling_System_UnitTests\Smart_Home_Event_Handling_System_UnitTests.csproj", "{99CB35EA-A3A8-48BC-9B33-AD840EDC2188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910CB019-981A-43FF-865C-BC42165C183E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910CB019-981A-43FF-865C-BC42165C183E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910CB019-981A-43FF-865C-BC42165C183E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910CB019-981A-43FF-865C-BC42165C183E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CB35EA-A3A8-48BC-9B33-AD840EDC2188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CB35EA-A3A8-48BC-9B33-AD840EDC2188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CB35EA-A3A8-48BC-9B33-AD840EDC2188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CB35EA-A3A8-48BC-9B33-AD840EDC2188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91B273AC-7D55-4A1F-BB7A-176E49DE555B}
+	EndGlobalSection
+EndGlobal
